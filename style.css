@@ -43,9 +43,9 @@ h4{color: rgb(176, 178, 196);  font-size: 40px;}
 .xz{
     color: red;
 }
-iframe{ border: 60px; 
+iframe{ border: 60px; height: 400px;
 }
-body{
+.ew{
     background: black
 }
 .pro{
@@ -58,7 +58,7 @@ body{
     border: solid 2px tomato ;
     text-align: center;
 
-    margin-left: 140px;
+    margin-left: 145px;
 }
 .ww2{
     border: solid 2px tomato;
@@ -73,7 +73,7 @@ body{
 .we1{
     display: inline-block;
 }
-video{
+iframe{
     margin-left: 160px ;
     border: red double 12px ;
 }
@@ -115,9 +115,6 @@ a:hover{
     a:active{
         color: red;
     }
-
-
-
 
 
 
