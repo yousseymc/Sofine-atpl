@@ -76,6 +76,7 @@ iframe{ border: 60px; height: 400px;
 iframe{
     margin-left: 160px ;
     border: red double 12px ;
+    border-radius:  20px; ;
 }
 
 .q1{
@@ -115,8 +116,13 @@ a:hover{
     a:active{
         color: red;
     }
-
-
+label{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.in{
+    text-align: center;
+}
 
 
 
